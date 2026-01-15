@@ -1,4 +1,4 @@
-# Hi 👋 I'm Shaurya Singhal
+# Hi 👋 I'm Ayushi Singhal
 
 🎓 B.Tech (ECE) | 2nd Year Student  
 📊 Aspiring Data Analyst  
@@ -20,3 +20,4 @@
 - SQL for Data Analysis
 - Data Visualization (Matplotlib)
 - Excel for Analytics
+
