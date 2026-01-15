@@ -1,23 +1,21 @@
-# Hi 👋 I'm Ayushi Singhal
+## Expense Tracker using Python
 
-🎓 B.Tech (ECE) | 2nd Year Student  
-📊 Aspiring Data Analyst  
-🐍 Learning Python, Pandas & Data Analysis  
+This is a beginner-friendly Python project that helps users record and manage their daily expenses.  
+The application allows users to add expenses with categories and amounts, view total spending, and analyze basic expense patterns.
 
-## 🔧 Skills
+### Key Features
+- Add daily expenses with amount and category
+- Store and display expense records
+- Calculate total expenses
+- Simple menu-driven interface
+- Beginner-friendly and easy to understand
+
+### Tools & Technologies
 - Python (Basics)
-- Pandas
-- NumPy (learning)
-- Data Cleaning & Analysis
-- MS Excel (Basics)
+- Data structures (lists, dictionaries)
+- Conditional statements and loops
 
-## 📂 Projects
-- 🧾 Expense Tracker using Python
-- 🤖 Rule-Based Chatbot
-- 📊 Exploratory Data Analysis (upcoming)
-
-## 📚 Currently Learning
-- SQL for Data Analysis
-- Data Visualization (Matplotlib)
-- Excel for Analytics
-
+### Learning Outcomes
+- Improved understanding of Python fundamentals
+- Hands-on practice with data handling
+- Experience in building a real-world mini project
